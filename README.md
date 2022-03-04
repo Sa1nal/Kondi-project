@@ -1,0 +1,2 @@
+# Kondi project
+ iskolai project
