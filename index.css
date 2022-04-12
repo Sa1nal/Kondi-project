@@ -1,0 +1,70 @@
+div {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+}
+iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height:100%;
+    border: none;
+
+}
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header
+ {
+     padding: 20px;
+    text-align: center;
+     color: yellow;
+     background-repeat: no-repeat ;
+     background-position: content ;
+     background-size: canvas;
+     position: relative;
+     background-color: yellow; 
+ }
+ .topnav
+{
+    overflow: hidden;
+    background-color: rgb(46, 33, 33);
+}
+.topnav a
+{
+    display: block;
+    float: left; 
+    color: white;      
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    
+   
+
+}
+.topnav a:hover
+{
+    background-color: lightgrey;
+    color: black;
+}
+.footer
+ {
+     padding: 50px;
+     text-align: center;
+     color: black;
+     background-repeat: no-repeat ;
+     background-position: content ;
+     background-size: canvas;
+     position: relative;
+     background-color: yellow; 
+ }
